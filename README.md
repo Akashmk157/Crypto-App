@@ -20,8 +20,8 @@
      <td>Market</td>
   </tr>
   <tr>
-    <td><img src="images/home-image.png" width=350 height=600></td>
-    <td><img src="images/Market-image.png" width=350 height=600></td>
+    <td><img src="images/home-image.png" width=350 height=650></td>
+    <td><img src="images/Market-image.png" width=350 height=650></td>
   </tr>
  </table>
  <table>
@@ -29,7 +29,7 @@
      <td>WatchList</td>
   </tr>
   <tr>
-    <td><img src="images/watchlist-image.png" width=300 height=500></td>
+    <td><img src="images/watchlist-image.png" width=350 height=650></td>
   </tr>
  </table>
 
