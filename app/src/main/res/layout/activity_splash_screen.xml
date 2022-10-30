@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dark_blue"
+    tools:context=".Splash_Screen">
+
+    <ImageView
+        android:id="@+id/image_logo"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:src="@drawable/splashicon"
+        android:layout_centerInParent="true"/>
+
+    <ProgressBar
+        android:id="@+id/progess_bar"
+        android:layout_below="@id/image_logo"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:indeterminateTint="@color/white"/>
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/akash_mk"
+        android:textSize="20sp"
+        android:textColor="@color/royal_blue_dark"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp"/>
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/text1"
+        android:layout_marginBottom="2dp"
+        android:text="@string/made_by"
+        android:textAlignment="center"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toTopOf="@id/text1" />
+
+
+</RelativeLayout>
