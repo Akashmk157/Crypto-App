@@ -21,9 +21,9 @@
      <td>WatchList</td>
   </tr>
   <tr>
-    <td><img src="images/home-image.png" width=300 height=600></td>
-    <td><img src="images/Market-image.png" width=300 height=600></td>
-    <td><img src="images/watchlist-image.png" width=300 height=600></td>
+    <td><img src="images/home-image.png" width=300 height=500></td>
+    <td><img src="images/Market-image.png" width=300 height=500></td>
+    <td><img src="images/watchlist-image.png" width=300 height=500></td>
   </tr>
  </table>
 
