@@ -14,6 +14,19 @@
 
 <h3 align="left">Screen shots</h3>
 
+<table>
+  <tr>
+    <td>Home Screen</td>
+     <td>Market</td>
+     <td>WatchList</td>
+  </tr>
+  <tr>
+    <td><img src="images/home-image.png" width=300 height=600></td>
+    <td><img src="images/Market-image.png" width=300 height=600></td>
+    <td><img src="images/watchlist-image.png" width=300 height=600></td>
+  </tr>
+ </table>
+
 <p align="left">
 </p>
 
